@@ -6,46 +6,28 @@
       "tabKey": "activity",
       "articles": [
         {
-          "id": "a1",
-          "title": "春节签到活动",
-          "publishTime": "2026-01-01",
-          "content": "春节期间每日登录领合成玉×100，全服累计签到 7 天再送十连券！"
-        },
-        {
           "id": "a2",
-          "title": "限时卡池【年】",
-          "publishTime": "2026-01-03",
-          "content": "★6 限定干员【年】概率 UP，卡池限时开放 14 天。"
+          "title": "新年快乐",
+          "publishTime": "2026-01-01",
+          "content": "Siglota制作组，Novement Games（霜影工作室）祝你2026新年快乐！"
         },
         {
-          "id": "s1",
-          "title": "1.8 版本更新说明",
-          "publishTime": "2025-12-30",
-          "content": "新增主线第 12 章、基建技能筛选、一键收菜等功能。"
+          "id": "a0",
+          "title": "v1.1.0更新",
+          "publishTime": "2026-01-01",
+          "content": "Siglota v1.1.0 更新\n✦更新了游戏引擎，缓解了部分卡顿和闪退问题\n✦新增了多语言切换功能\n✦单曲集更新，包含一首独占曲目与一首收录曲目\n·  [華灯初上~Shadow Under The Moon~] by Exit Crosser\n·  [Aleph-0] by LeaF\n✦新增Extreme难度谱面\n·  [Tears of Angel] (单曲精选集)"
         },
         {
-          "id": "s2",
-          "title": "服务器维护通知",
-          "publishTime": "2026-01-02",
-          "content": "1 月 3 日 04:00~08:00 全服维护，补偿合成玉×200。"
-        }
-      ]
-    },
-    {
-      "tabName": "系统公告",
-      "tabKey": "system",
-      "articles": [
-        {
-          "id": "s1",
-          "title": "1.8 版本更新说明",
-          "publishTime": "2025-12-30",
-          "content": "新增主线第 12 章、基建技能筛选、一键收菜等功能。"
+          "id": "a-1",
+          "title": "解锁剧情",
+          "publishTime": "2026-01-01",
+          "content": "在主界面点击用户名，输入Rem并确认，解锁路线1。\n在主界面点击用户名，输入Ram并确认，解锁路线2。\n区分大小写。"
         },
         {
-          "id": "s2",
-          "title": "服务器维护通知",
-          "publishTime": "2026-01-02",
-          "content": "1 月 3 日 04:00~08:00 全服维护，补偿合成玉×200。"
+          "id": "a-2",
+          "title": "v1.0.0更新",
+          "publishTime": "2025-10-4",
+          "content": "国庆中秋双节至，在这次假期，Siglota即将迎来新版本的更新！以下是更新内容：\n✦各位期盼已久的主线第三章节『晶途迷冢』即将更新，以下是曲目列表：·[Crystal Shower] by Crystal_P & Suglarke·[Illegal Access-Forbidden Love] by Reonda & Suglarke & A8Z0RB·[Aetherial Ram] by Rimecraft·[SurrE4L1stic] by Nerovix·[*****] by ???·[HATE ALL] by tRee·[******* *******] by ???\n✦为Rem添加了一个新的立绘选项Rem 「女仆」，您需要在选中Rem后点击切换按钮来使用这个新的立绘。\n✦优化了UI表现与选取界面性能\n✦新增了部分UI动画\n✦修复了Autumn Fall Normal难度的问题\n✦新增了AP/FC动画与音效\n✦新增了结算界面音效\n✦流速设置上限提升至500\n————————\n“在峙火中重生，于同源中降临。无垠，巧妙地，隧正邪，勾勒。索命，失活。”\n————————\n祝各位玩家游戏愉快！十分感谢：立绘画师：米粒 贺图：Tendin\n————————\n由于部分原因（包括但不限于学业时间分配等等）我们不得不选择立即上线新更新，游戏更新通告，宣传图以及PV将会在几天后放出！"
         }
       ]
     }
