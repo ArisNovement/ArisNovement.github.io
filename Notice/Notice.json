@@ -6,6 +6,12 @@
       "tabKey": "activity",
       "articles": [
         {
+          "id": "b002",
+          "title": "v1.2.2更新",
+          "publishTime": "2026-02-22",
+          "content": "▲修复了重大漏洞。\n▲修复了游玩卡顿的问题。\n▲修复了新手教程加载失败的问题。\n▲替换了HYPER MEMORIES的Ultra难度和Extreme难度的谱面。"
+        },
+        {
           "id": "b001",
           "title": "v1.2.0更新",
           "publishTime": "2026-02-19",
